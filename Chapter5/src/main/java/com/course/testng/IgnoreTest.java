@@ -2,6 +2,10 @@ package com.course.testng;
 
 import org.testng.annotations.Test;
 
+/**
+ * 忽略测试
+ */
+
 public class IgnoreTest {
 
 
